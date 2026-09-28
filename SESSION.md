@@ -6,9 +6,4 @@
 ## 次のステップ
 1. ユーザーからの指示待ち
 
-## 直近の決定事項
-- 2026-03-16: CLAUDE.md / SESSION.md を規約に従い作成
-
-## 作業ログ
-### 2026-03-16
-- CLAUDE.md / SESSION.md 作成
+経緯 (旧「直近の決定事項」「作業ログ」 の節) = [SESSION-archive.md](SESSION-archive.md)。
